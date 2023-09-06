@@ -1,0 +1,37 @@
+Cursos: curso-composition-API
+Author: Ivan Lourenço Gomes
+
+## ----- ----- -----
+-- ----- ----- -----
+
+Primeira aula.
+- mostra as diferenças de sintaxe de composition API e options api
+- fala sobre o vite e cria o primeiro projeto  
+resumo : Vite é uma ferramenta de desenvolvimento de front-end que foi projetada para otimizar e acelerar o desenvolvimento de aplicativos web Vue.js e outras estruturas JavaScript.
+ Seu nome "Vite" é uma palavra francesa que significa "rápido" ou "ágil", o que reflete sua abordagem de desenvolvimento de alta velocidade.
+O que podemos estudar e usar :
+Plugins de Internacionalização: Para aplicativos que precisam de suporte a vários idiomas, há plugins que ajudam na internacionalização, 
+permitindo que você gerencie e traduza eficientemente o conteúdo.
+
+-- ----- ----- -----
+
+Segunda aula.
+
+-- ----- ----- -----
+
+O comando git status nos dá todas as informações necessárias sobre a branch atual:
+git status
+
+-- ----- ----- -----
+
+
+
+-- ----- ----- -----
+-- ----- ----- -----
+-- ----- ----- -----
+-- ----- ----- -----
+-- ----- ----- -----
+-- ----- ----- -----
+-- ----- ----- -----
+-- ----- ----- -----
+-- ----- ----- -----
