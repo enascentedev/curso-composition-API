@@ -1,9 +1,17 @@
 <script setup>
-const props = defineProps(["books"]);
+import { ref } from "vue";
+import { useBooksStore } from "../store/booksStore";
+
+const booksStore = useBooksStore();
+
+const toggleIsRead = (id) => {
+	booksStore.toggleIsRead(id);
+};
 </script>
+
 <template>
 	<div class="books-list">
-		<div v-for="book in books" :key="book.isbn" class="book">
+		<div v-for="book in booksStore.books" :key="book.isbn" class="book">
 			<div class="readIt" v-if="book.isRead">
 				<i class="fa-solid fa-eye"></i>
 			</div>

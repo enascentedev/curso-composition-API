@@ -1,4 +1,8 @@
 <script setup>
+import { ref } from "vue";
+import { useBooksStore } from "../store/booksStore";
+const booksStore = useBooksStore();
+
 let newBook = {
 	title: "",
 	cover: "",
