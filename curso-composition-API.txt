@@ -38,7 +38,7 @@ foi criada uma propriedade nos objetos done:false e utilizar ela pra passar o ta
 
 Quinta aula.
 Props
-foi criada uma propriedade nos objetos done:false e utilizar ela pra passar o tamanho do objetos (courses.length)
+foi criada uma propriedade nos objetos done:false e utiliza ela pra passar o tamanho do objetos (courses.length)
 -- ----- ----- -----
 -- ----- ----- -----
 -- ----- ----- -----
